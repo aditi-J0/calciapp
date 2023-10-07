@@ -2,7 +2,9 @@
 
 Welcome to the calci repository! This repository contains the source code for a simple web-based calculator with a user-friendly interface. It's built using HTML, CSS, and JavaScript.
 
-![calciapp](https://github.com/ms-solly/calciapp/assets/119148636/4a31867a-8fe5-472c-9777-0568353ea5fa)
+
+![calciapp](https://github.com/aditi-J0/calciapp/assets/147121671/4c607c7f-d1b1-44f4-8061-8bed7a289691)
+
 
 
 ## Features
