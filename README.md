@@ -1,8 +1,8 @@
-# Amazing Calculator
+# Calci: My simple Calculator and easy to use calculator 
 
-Welcome to the Amazing Calculator repository! This repository contains the source code for a simple web-based calculator with a user-friendly interface. It's built using HTML, CSS, and JavaScript.
+Welcome to the calci repository! This repository contains the source code for a simple web-based calculator with a user-friendly interface. It's built using HTML, CSS, and JavaScript.
 
-![calciapp](https://github.com/aditi-J0/calciapp/assets/147121671/1992db43-c434-41b2-bfe9-8fee74694616)
+![calciapp](https://github.com/ms-solly/calciapp/assets/119148636/4a31867a-8fe5-472c-9777-0568353ea5fa)
 
 
 ## Features
